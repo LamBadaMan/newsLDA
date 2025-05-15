@@ -10,6 +10,5 @@ In a deviation from the original methodology, I employ BERTopic, which is based 
 
 As the authors point out, news text is a mirror of the prevailing economic issues that are important to both news consumers and producers. Similarly, Platts news should reflect the state of commodity markets and the topics market participants are concerned with. 
 
-Are recurring patterns in the news that explain commodity market regimes? 
-Let's find out.
+Are there recurring patterns in the news that explain commodity market regimes? Let's find out.
 

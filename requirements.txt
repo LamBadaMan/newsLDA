@@ -1,0 +1,15 @@
+pandas
+openpyxl
+scikit-learn
+ipykernel
+beautifulsoup4
+nltk
+matplotlib
+wordcloud
+gensim
+spacy
+bertopic[flair, gensim, spacy, use]
+bertopic[vision]
+nbformat
+plotly
+ipywidgets
